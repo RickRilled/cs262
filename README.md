@@ -1,2 +1,2 @@
-# cs232
-Code for cs232 fall 2018
+# cs262
+Code for cs262 fall 2018
