@@ -1,4 +1,0 @@
-Project 1) An app for bands/musical groups where ideas are posted and voted on. An idea/question is posed  and the members vote and give advice or amendments to the question. Those can be added or declined, and the final idea needs a majoritivate vote. 
-
-Project 2) An app that detects your emotions, and plays the worst/best possible song at any given moment.
-eg. You just got an F on an exam, and "In The Arms of an Angel" by Sarah McLachlan
