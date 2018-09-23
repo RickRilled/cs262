@@ -1,0 +1,18 @@
+1a) Senior
+1b) CS
+1c) CS 112: A-
+    CS 212: B
+
+2a) Java: Pretty much every CS class has used it, esspecially CS 214. I've made multiple applications for it over time. 
+    Android/GPS: I took the Smartphone App Dev DCM my freshman year, so I've pretty familiar with all of these systems in the context of the MIT app builder and Block coding
+    Database: Not really, heard of SQL but that's about it
+
+2b) Trello: Used at CIT to document jobs and the specific reuirements for each job
+    Slack/Git: Limited, but familiar
+2c) Yes I have an android phone, Galaxy S8 running Oreo 
+2d) In terms of projects, I had an idea where it's an app for bands/musical groups where ideas are posted and voted on. An idea/question is posed  and the members vote and give advice or amendments to the question. Those can be added or declined, and the final idea needs a majoritivate vote. 
+
+3a)Very strong EI, next AT, then PC, lastly LM
+3b)I'd love to work with Matthew Nykamp, Lauran Ebels, Joey Faas
+
+4)My stength lies in my soft skills, creativity, and presentation. My technical skills are getting there, but I would love to be paired with other creative minds.
