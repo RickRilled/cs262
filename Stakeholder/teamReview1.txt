@@ -1,0 +1,6 @@
+Royce Lloyd
+Clammin' Troop
+
+The project is pretty unique, I really like the concept. It seems like they gave appropriate thought to what is needed, in terms of user id's and matching surveys. My main critique is the adoption feature. Setting up pets for adoption is a complex process that adoption agencies have teams of people working on. Maybe they could work with different agencies and get access to their databases. That way they can completely focus of the app and use information already provided. Plus this would build a good rep with local agencies. 
+
+Code is responsible and well documented, gives me faith that they will do well.

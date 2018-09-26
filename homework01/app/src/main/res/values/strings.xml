@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">homework01</string>
+    <string name="frist_value">Frist Value</string>
+    <string name="second_value">Second Value</string>
+</resources>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:visibility="visible"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/firstValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/frist_value"
+        android:visibility="visible"
+        android:layout_alignParentLeft="true" />
+
+    <EditText
+        android:id="@+id/inputFirstValue"
+        android:layout_width="189dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/firstValue"
+        android:layout_toRightOf="@+id/firstValue"
+        android:ems="10"
+        android:inputType="number" />
+
+    <TextView
+        android:id="@+id/secondValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="60dp"
+        android:text="@string/second_value" />
+
+    <EditText
+        android:id="@+id/inputSecondValue"
+        android:layout_width="207dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/secondValue"
+        android:layout_marginTop="-14dp"
+        android:layout_toEndOf="@+id/secondValue"
+        android:ems="10"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/buttonAdd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="99dp"
+        android:text="+"
+        android:layout_alignParentLeft="true" />
+
+    <Button
+        android:id="@+id/buttonMinus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/buttonAdd"
+        android:layout_marginStart="101dp"
+        android:text="-"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="101dp" />
+
+    <Button
+        android:id="@+id/buttonMulti"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/buttonAdd"
+        android:layout_toEndOf="@+id/buttonDivide"
+        android:text="*"
+        android:layout_toRightOf="@+id/buttonDivide" />
+
+    <Button
+        android:id="@+id/buttonDivide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/buttonAdd"
+        android:layout_toEndOf="@+id/buttonMinus"
+        android:text="/"
+        android:layout_toRightOf="@+id/buttonMinus" />
+
+    <TextView
+        android:id="@+id/result"
+        android:layout_width="243dp"
+        android:layout_height="53dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="167dp"
+        android:text="Result!" />
+
+</RelativeLayout>
