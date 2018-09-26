@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">homework01</string>
-    <string name="frist_value">Frist Value</string>
-    <string name="second_value">Second Value</string>
+    <string name="frist_value">first_value</string>
+    <string name="second_value">second_value</string>
+    <string name="first_value">First Value</string>
+    <string name="secondvalue">Second Value</string>
 </resources>

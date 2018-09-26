@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -13,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:text="@string/frist_value"
+        android:text="@string/first_value"
         android:visibility="visible"
         android:layout_alignParentLeft="true" />
 
@@ -34,7 +33,8 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_marginTop="60dp"
-        android:text="@string/second_value" />
+        android:text="@string/secondvalue"
+        android:layout_alignParentLeft="true" />
 
     <EditText
         android:id="@+id/inputSecondValue"
@@ -44,7 +44,8 @@
         android:layout_marginTop="-14dp"
         android:layout_toEndOf="@+id/secondValue"
         android:ems="10"
-        android:inputType="number" />
+        android:inputType="number"
+        android:layout_toRightOf="@+id/secondValue" />
 
     <Button
         android:id="@+id/buttonAdd"
