@@ -1,0 +1,7 @@
+Royce Lloyd
+Clammin' Troop
+
+a)It shows 60 hours of work for the last sprint which is right where they want to be. After seeing their demo, i agree that it looks like the amount of work translates to what they did. 
+b)Their stories seem rather ambitious. They have a lot of great ideas but it can get muddied as it goes along. This was confirmed during our stakeholder meeting. They wanted to do a lot in the next sprint that might be asking too much from their team. The app itself follwed the documentations, but the system is a little disjointed. Plenty of good ideas but not a great connection between all of them. There is a quiz with a matching system that is confusing for a user at first. 
+c)Yes there is enough code and the prototype works well for me. 
+d)I'm happy with the NFR's. They are well defined and already applied to the app. 
