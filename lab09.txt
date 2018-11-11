@@ -1,0 +1,13 @@
+a)5, one for each main HTTP method with an extra GET. They are implimented in playerresourse.java
+
+b)
+i) JDBC 
+
+ii) 1)JDBC contains the SQL query string used to get the data, which is passed into a try block to catch any exceptions like missing data. SQL queries are self containing, meaning they referance the SQL table withoutexternal blocks. 
+    2)JDBC result sets is the execution of the SQL query; basically what it returns. List<player> is a list of the players from the player tables. SQL realtions are the ways that each element in the table are connected. 
+iii)If there is nothing, it will return a commented null. If there is data in the value, it will return that value.
+
+c)
+i)It contains the information for each individual player, and the methods involved in changing/getting that information. 
+
+ii)It has getter/mutator methods that allow us to change information.

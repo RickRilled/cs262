@@ -1,0 +1,11 @@
+Royce Lloyd
+Reviewing Team C
+
+a)	After reviewing their trello board, github, and viewing their presentation, I think Team C has put in the appropriate amount of work. They seem to have evenly spread the work among each member and played to their strengths. The effort shows in their demo. There is still a sense of multiple ideas being tied together very loosely by a central swiping mechanic, but they keep strengthening the app so I believe they will have a solid product by the end of the semester. 
+
+b)	Their use-case diagram is where most of my concern lies. It describes a lot of events happening in tandem that cannot happen at the same time with one user. You cannot take the quiz, match with dogs, and put up dog information at the same time. This is where I think most of their confusion lies. They need to have a better start and stop for the app, in order to create a stronger, more cohesive app. 
+	Their UI is well designed. I like the connection to the many different paths a user can go down. There is the ability to go about the app without seeing some features. This could be a strength or a weakness, depending on if they want to be more entry level friendly. If they want someone to use every feature, that person might get confused with so many paths, and this goes back to the use-case diagram. Over all I think the ideas are there, and are beginning to surface, but they need to strip back to the basics to figure out exactly what they want to accomplish. 
+
+c)	There is a great deal of activity in the code. I can run the app just fine, with the features they claim to have implemented working well. I cannot find any way to break the app.
+
+d) 	The presentation was very solid. The visual aids helped describe the app without distracting from the very interesting people working on it. It was clear they practiced and made sure they knew what to talk about. There was a lot of walking around and sitting down which got distracting at some points. This is minor, because of how well they held themselves and handled the questions presented to them. It was one of the better and more entertaining presentations. Going first was certainly an advantage in this right, and they used that to curate an interesting discussion. 
